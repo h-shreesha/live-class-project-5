@@ -2,7 +2,7 @@
 
 By Shreesha
 
-![websiteSnap](./readmeImages/WebsiteSnap.png)
+![websiteSnap](./readmeImages/websiteSnap.png)
 
 # What did I learn in this project
 
