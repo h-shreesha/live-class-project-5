@@ -2,6 +2,10 @@
 
 By Shreesha
 
+Here's the Live Deployed Website of ![Project05Badge](https://img.shields.io/badge/Project-05-green)
+
+## Project 05  [DEPLOYED LINK](https://project05-crypto-landing-page.netlify.app/)
+
 ![websiteSnap](./readmeImages/websiteSnap.png)
 
 # What did I learn in this project
